@@ -12,6 +12,6 @@
   "dependencies": {
     "dat.gui": "^0.7.5",
     "simplex-noise": "^2.4.0",
-    "three": "^0.102.1"
+    "three": "^0.125.0"
   }
 }
